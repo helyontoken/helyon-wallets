@@ -1,0 +1,37 @@
+{
+  "community": {
+    "address": "4bcZ9KD5hnM6ziDqLJVd5Yr2JssTEZdcE8VrfsKBr44d",
+    "allocation_percent": 35,
+    "amount": 525000000
+  },
+  "staking": {
+    "address": "6MPSS5LuVXpVbXGcATQtmg5DnLZ9B5rU8zTNNJx59ATR",
+    "allocation_percent": 25,
+    "amount": 375000000
+  },
+  "team": {
+    "address": "FqSd7mxb32YrWgW476y4wRjmTb6HkrNsyLsZvzbwyxdv",
+    "allocation_percent": 15,
+    "amount": 225000000
+  },
+  "treasury": {
+    "address": "2WZQoJnk8z8cqWdb5EB1t1HrHiE1CVDd2a77EfvMXc1y",
+    "allocation_percent": 10,
+    "amount": 150000000
+  },
+  "developer": {
+    "address": "2Kur4qyiWu8Bqwqi7gm739KgVyayw2djMQyfvQmpdkTQ",
+    "allocation_percent": 7,
+    "amount": 105000000
+  },
+  "marketing": {
+    "address": "8aKGkbPUVTKiB461BzLMJGWuj8QXWTmTGTLuG6Cr5gMf",
+    "allocation_percent": 5,
+    "amount": 75000000
+  },
+  "advisors_vc": {
+    "address": "8NvAPhntqu2zqPJcxCpyQ3z2AqToZ8ARjeBThAyz5TTB",
+    "allocation_percent": 3,
+    "amount": 45000000
+  }
+}
